@@ -28,7 +28,7 @@ export interface Product {
         id: "mango",
         name: "Cream Mango",
         subName: "Pure sunshine.",
-        price: "₹120",
+        price: "₹99",
         description: "Rich in Vitamin C - No preservatives - 100% fruit",
         folderPath: "/images/mango",
         themeColor: "#FFB74D",
@@ -49,7 +49,7 @@ export interface Product {
             description: "We believe in absolute transparency. From the orchard to the bottle, our process is designed to minimize oxidation and maximize flavor. HPP (High Pressure Processing) ensures that our juice stays safe and fresh without any heat treatment, keeping the vital enzymes and vitamins intact."
         },
         buyNowSection: {
-            price: "₹120",
+            price: "₹99",
             unit: "per 300ml bottle",
             processingParams: ["Cold Pressed", "Never Heated", "HPP Treated"],
             deliveryPromise: "Next-day delivery available in metro cities. Chilled packaging ensures peak freshness.",
@@ -60,7 +60,7 @@ export interface Product {
         id: "chocolate",
         name: "Dutch Chocolate",
         subName: "Velvety smooth.",
-        price: "₹140",
+        price: "₹119",
         description: "Premium Cocoa - Almond Milk base - Plant Protein",
         folderPath: "/images/chocolate",
         themeColor: "#8D6E63",
@@ -81,7 +81,7 @@ export interface Product {
             description: "Heat destroys delicate cocoa flavonoids. That's why we mix our Dutch Chocolate cold. Our almond milk is pressed fresh daily, never stored. The result is a clean, robust chocolate flavor that feels heavy on the tongue but light on the stomach."
         },
         buyNowSection: {
-            price: "₹140",
+            price: "₹119",
             unit: "per 300ml bottle",
             processingParams: ["Plant Based", "Cold Blended", "Dairy Free"],
             deliveryPromise: "Shipped in insulated eco-friendly coolers. Keeps perfectly cold for 48 hours.",
@@ -92,7 +92,7 @@ export interface Product {
         id: "pomegranate",
         name: "Ruby Pomegranate",
         subName: "Antioxidant powerhouse.",
-        price: "₹150",
+        price: "₹129",
         description: "Heart Healthy - Cold Pressed - Immunity Booster",
         folderPath: "/images/pomegranate",
         themeColor: "#E57373",
@@ -113,7 +113,7 @@ export interface Product {
             description: "Pomegranate juice is highly sensitive to light and air. Our bottling line is designed to shield the juice from oxidation at every step. We bottle immediately after pressing to lock in the vibrant color and the potent punicalagins—unique antioxidants found only in pomegranate."
         },
         buyNowSection: {
-            price: "₹150",
+            price: "₹129",
             unit: "per 300ml bottle",
             processingParams: ["Cold Pressed", "Oxidation Shield", "No Additives"],
             deliveryPromise: "Direct from the pressery to your doorstep. Guaranteed fresh upon arrival.",
